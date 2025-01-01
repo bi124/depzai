@@ -1,5 +1,5 @@
 -- Max level, godhuman, CDK, soul guitar
-getgenv().Configs = {
+getgenv().Configs = { 
     ["Team"] = "Pirates",
     ["FPS Boost"] = true,
     ["Farm Boss Drops"] = {
